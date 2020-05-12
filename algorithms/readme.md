@@ -1,6 +1,6 @@
 # algorithms
 
-Directory containing data structure implementations
+Directory containing algorithmic implementations
 
 ## Contents
 
