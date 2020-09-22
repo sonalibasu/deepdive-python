@@ -42,7 +42,6 @@ def generator(source_list, sc):
     temp = minus_query(src_elements, sc_table)
     return temp
 
-
 if __name__ == "__main__":
     data = pd.read_excel(r'InputQGen.xlsx',"Sheet1")
     df = pd.DataFrame(data, columns=['DDL'])
